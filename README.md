@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/jucagc/jucagc/blob/main/Banner.png?raw=true" width="800"/>
+  <img decoding="async" src="https://github.com/jucagc/jucagc/blob/main/Banner.png?raw=true"/>
 </div>
 ## Hi there 👋
 
