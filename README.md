@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/jucagc/jucagc/blob/main/Banner.png?raw=true"/>
 </div>
-## Hi there 👋
+## About Me👋:
 
 ¡Hola, Soy Juan Carlos!
 
