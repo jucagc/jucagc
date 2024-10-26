@@ -6,7 +6,7 @@
 
 ¡Hola, Soy Juan Carlos!
 
-Soy un Lic. en Informática Administrativa especializado en Data Science con experiencia en áreas de tecnologías de información en sector bancario y Financiero. Cuento con facilidad para trabajar en equipo, orientado a resultados y con capacidad analítica. Mi trayectoria profesional se centra en áreas comerciales, Administrativas de logística y finanzas implementando proyectos de Learning, manejo de Python, SQL y R.
+Soy un Lic. en Informática Administrativa especializado en Data Science con experiencia en áreas de tecnologías de información en sector bancario y Financiero. Cuento con facilidad para trabajar en equipo, orientado a resultados y con capacidad analítica. Mi trayectoria profesional se centra en áreas comerciales, Administrativas de logística y finanzas implementando proyectos de Machine Learning, manejo de Python, SQL y R.
 
 
 ## 🌐 Socials:
